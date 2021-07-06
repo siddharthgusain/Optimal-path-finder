@@ -13,8 +13,10 @@ A automation script for browser
 5. Tech stack used : Puppeteer , Nodejs
 
 ** Note : Add source , destinations and stopage locations in locations.json file **
+
 ** Run : node index.js locations.json mode-of-commute **
 
 ## Images :
-
+![model](/Images/path.png)
+![model](/Images/screenshot0.png)
 
