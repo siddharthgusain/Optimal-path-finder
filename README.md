@@ -1,5 +1,5 @@
 # Optimal-path-finder
-A automation script for google maps
+A automation script for browser
 
 ## Features:
 1. Takes source,destination and all the stopage points as inputs and then generates a HTML file

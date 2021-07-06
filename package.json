@@ -1,0 +1,24 @@
+{
+  "name": "optimal-path-finder",
+  "version": "1.0.0",
+  "description": "A automation script for browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthgusain/Optimal-path-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddharthgusain/Optimal-path-finder/issues"
+  },
+  "homepage": "https://github.com/siddharthgusain/Optimal-path-finder#readme",
+  
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+
+}
