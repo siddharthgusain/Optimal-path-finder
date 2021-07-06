@@ -13,7 +13,7 @@ module.exports = function (data) {
         MainHtml += " <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script> ";
         MainHtml += " <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script> ";
         MainHtml += " <meta name='viewport' content='width=device-width, initial-scale=1'> ";
-        MainHtml += " <link rel='stylesheet' href='html.css' type='text/css'> ";
+        MainHtml += " <link rel='stylesheet' href='OptimalPath.css' type='text/css'> ";
         MainHtml += " </head> ";
         MainHtml += " <body> " ;
         MainHtml += " <div class='container' style = 'margin-top : 5%; margin-bottom : 5%'> ";

@@ -1,6 +1,6 @@
 {
     "URL":"https://www.google.com/maps/dir///",
     "startPt": "Dilshad Garden",
-    "endPt": "Vasundhara",
-    "stopages": ["Paschim Vihar","Laxmi Nagar","Connaught Place"]
+    "endPt": "Rithala",
+    "stopages": ["Noida","Pitampura"]
 }
